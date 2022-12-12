@@ -1,0 +1,66 @@
+/* .HomeScreen {
+    height: 200vh;
+  }
+  .SideBar {
+    height: 95vh;
+    position: sticky;
+    top: 2.5%;
+    float: left;
+    text-align: left;
+    margin: auto;
+    width: 30%;
+    color: blue;
+    border-right: 2px solid gray;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    column-count: 1;
+  }
+  .navigation {
+    text-align: right;
+    margin-right: 10%;
+    height: 20%;
+    display: inline-block;
+  }
+  a {
+    font-size: 30px;
+    color: #1da1f2;
+    text-decoration: none;
+  }
+  a:hover {
+    color: #1da1f2; 
+    font-weight: bold;
+  }
+  a:visited {
+    text-decoration: none;
+  }
+  textarea {
+    resize: none;
+    height: 70%;
+    width: 80%;
+  }
+  .logOut {
+  }
+  .MainHeader {
+    position: sticky;
+    top: 0;
+    height: 5%;
+    width: 69%;
+    float: right;
+    display: flex;
+    align-items: center;
+    background-color: white;
+    border-bottom: 2px solid gray;
+  }
+  .Mainfeed {
+    margin-top: 2.5%;
+    width: 69%;
+    float: right;
+  }
+  .post {
+    margin-bottom: 20px;
+    border: 5px solid black;
+  }
+  .home{
+      font-weight: bold;
+  } */
