@@ -1,6 +1,6 @@
 # Twitter-Clone
 <Strong>https://ericyou2.github.io/Twitter-Clone/</Strong>
-Used: React, Firebase
+<br>Used: React, Firebase
 
 # Basics of the App
 - Register with any email and password
