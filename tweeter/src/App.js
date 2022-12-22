@@ -2,7 +2,7 @@ import React, { useEffect, useState, useRef } from "react";
 import "./App.css";
 import { Container } from "react-bootstrap"
 import {db, db2} from "./firebase";
-import { BrowserRouter as Router, Route, Routes} from "react-router-dom";
+import { HashRouter as Router, Route, Routes} from "react-router-dom";
 import { getDoc, getDocs, collection, addDoc, query, where, doc, onSnapshot, updateDoc, arrayUnion} from "firebase/firestore";
 
 
